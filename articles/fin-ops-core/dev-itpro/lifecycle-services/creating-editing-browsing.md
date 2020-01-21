@@ -67,7 +67,7 @@ There are several ways to author a BPM library. You can do so from scratch eithe
 
 
 ## Import a sections of another library
-1. Openn the **Business process libraries** page, and then open the library you want to edit. 
+1. Open the **Business process libraries** page, and then open the library you want to edit. 
 2. Navigate to the line you would like to import to and select **Import**.
      ![Select_import](./media/Select_import.PNG "Select import")
 3. Select **As child** or **As sibling**.
